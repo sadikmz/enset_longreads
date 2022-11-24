@@ -28,8 +28,11 @@ source <https://academic.oup.com/dnaresearch/article/29/6/dsac035/6815630#379962
 scaffolding 
 - Align with BWA
 - HiC-Pro <https://www.nature.com/articles/s41597-022-01671-1#Sec2>
+- Hi-CUP <https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01388-y#Sec10>
 - LACHESIS
+- ALLHiC
 
+HiC->LACHESIS
 ### Benchmarking genome articles
 
 Allium crops <https://www.nature.com/articles/s41467-022-34491-3>
