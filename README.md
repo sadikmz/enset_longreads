@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG">
     <!-- Please provide path to your logo here -->
     <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
@@ -26,25 +26,31 @@
 [![Pull Requests welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/GITHUB_USERNAME/REPO_SLUG/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 [![code with love by GITHUB_USERNAME](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-GITHUB_USERNAME-ff1414.svg?style=flat-square)](https://github.com/GITHUB_USERNAME)
 
-</div>
+
+</div> -->
+
+
+
+# PacBio CLR and HiFi reads assembly, annotation, and analysis 
 
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [About](#about)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Project assistance](#project-assistance)
-- [Contributing](#contributing)
-- [Authors \& contributors](#authors--contributors)
-- [Security](#security)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+- [PacBio CLR and HiFi reads assembly, annotation, and analysis](#pacbio-clr-and-hifi-reads-assembly-annotation-and-analysis)
+  - [About](#about)
+    - [Built With](#built-with)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Usage](#usage)
+  - [Roadmap](#roadmap)
+  - [Support](#support)
+  - [Project assistance](#project-assistance)
+  - [Contributing](#contributing)
+  - [Authors \& contributors](#authors--contributors)
+  - [Security](#security)
+  - [License](#license)
+  - [Acknowledgements](#acknowledgements)
 
 </details>
 
