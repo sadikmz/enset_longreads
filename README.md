@@ -26,6 +26,9 @@
 ---
 ## PacBio CLR assembly and scaffolding
 
+```
+code here
+```
 ## PacBio HiFi assembly and scaffolding
 
 ## About
