@@ -9,6 +9,7 @@
   - [PacBio HiFi assembly and scaffolding](#pacbio-hifi-assembly-and-scaffolding)
     - [Assembly](#assembly)
     - [scaffolding](#scaffolding)
+    - [Generating and vizualing HiC contact probability maps](#generating-and-vizualing-hic-contact-probability-maps)
     - [Benchmarking genome articles](#benchmarking-genome-articles)
     - [Assembly quality check](#assembly-quality-check)
 
@@ -34,13 +35,19 @@ Hifiasm with default followed by purge-dups <https://bmcplantbiol.biomedcentral.
 
 
 ### scaffolding 
-- Align with BWA
+- Align with BWA/Bowtie (-end-to-end, -very-sensitive -L 30)<https://www.nature.com/articles/s41467-022-34206-8#Sec9>
 - HiC-Pro <https://www.nature.com/articles/s41597-022-01671-1#Sec2>
 - Hi-CUP <https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01388-y#Sec10>
 - LACHESIS
 - ALLHiC
+- Juicebox after LACHESIS and filtering HiC reads (PacBioCLR) <https://www.nature.com/articles/s42003-022-04145-7#Sec10>
 
 HiC -> LACHESIS
+
+### Generating and vizualing HiC contact probability maps
+
+- 3D-DNA and Juicebox <https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08697-0#Sec12>
+- [HiCPlotter](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0767-1)
 
 ### Benchmarking genome articles
 
