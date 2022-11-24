@@ -12,10 +12,14 @@
     - [Generating and vizualing HiC contact probability maps](#generating-and-vizualing-hic-contact-probability-maps)
     - [Benchmarking genome articles](#benchmarking-genome-articles)
     - [Assembly quality check](#assembly-quality-check)
+    - [Population structure](#population-structure)
 
 ## Organnels genome assembly (Chloroplast and mitochondorial genomes)
 - Chloroplast genome: excluding reads before assembly 
 After self-correction and low-quality region trimming, SMRT long reads were mapped to a previously released patchouli chloroplast genome (NCBI accession: NC_042796.1)56 by Minimap2 (version 2.5-r572)57 with the parameters -t 96 -ax map-pb. As the mapped reads belonged to chloroplasts, the remaining unmapped reads were first assembled to obtain the nuclear genome <https://www.nature.com/articles/s41467-022-31121-w#Sec10>
+- <https://doi.org/10.1111/1755-0998.13616>
+
+
 
 ## PacBio CLR assembly and scaffolding
 
@@ -43,6 +47,9 @@ Hifiasm with default followed by purge-dups <https://bmcplantbiol.biomedcentral.
 - Juicebox after LACHESIS and filtering HiC reads (PacBioCLR) <https://www.nature.com/articles/s42003-022-04145-7#Sec10>
 
 HiC -> LACHESIS
+HiC -> HiC-Pro -> Juicerbox -> 3D-DNA -> HiC-plotter (ONT) <https://www.nature.com/articles/s42003-022-03646-9#Sec11>
+HiFi -> HiC -> HiC -> 3D-DNA -> Juicebox manual inspection <https://www.frontiersin.org/articles/10.3389/fpls.2022.1012277/full#h3>
+CLR -> HiC -> LACHESIS <https://www.mdpi.com/2079-7737/11/10/1492>
 
 ### Generating and vizualing HiC contact probability maps
 
@@ -52,5 +59,10 @@ HiC -> LACHESIS
 ### Benchmarking genome articles
 
 Allium crops <https://www.nature.com/articles/s41467-022-34491-3>
+Tea genome <https://doi.org/10.1038/s41438-020-0288-2>
+Turmeric <https://www.frontiersin.org/articles/10.3389/fpls.2022.1003835/full>
 
 ### Assembly quality check 
+
+### Population structure
+<https://www.frontiersin.org/articles/10.3389/fpls.2022.1022169/full#h3>
