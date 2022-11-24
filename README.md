@@ -28,8 +28,8 @@
 
 Quality check on HiFi reads
 
->[GeneScope.FK](https://github.com/thegenemyers/GENESCOPE.FK)
->[PloidyPlot](https://github.com/thegenemyers/MERQURY.FK)
+[GeneScope.FK](https://github.com/thegenemyers/GENESCOPE.FK)
+[PloidyPlot](https://github.com/thegenemyers/MERQURY.FK)
  
 
 ## PacBio HiFi assembly and scaffolding
