@@ -6,6 +6,7 @@
 - [PacBio CLR and HiFi reads assembly, annotation, and analysis](#pacbio-clr-and-hifi-reads-assembly-annotation-and-analysis)
   - [PacBio CLR assembly and scaffolding](#pacbio-clr-assembly-and-scaffolding)
   - [PacBio HiFi assembly and scaffolding](#pacbio-hifi-assembly-and-scaffolding)
+    - [Benchmarking genome articles](#benchmarking-genome-articles)
 
 
 </details>
@@ -23,7 +24,6 @@ source <https://academic.oup.com/dnaresearch/article/29/6/dsac035/6815630#379962
 
 ## PacBio HiFi assembly and scaffolding
 
+### Benchmarking genome articles
 
-<details>
-<summary>Screenshots</summary>
-<br>
+Allium crops <https://www.nature.com/articles/s41467-022-34491-3>
