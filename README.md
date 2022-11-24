@@ -1,1 +1,1 @@
-# pacbio_clr_hifi
+* PacBio CLR and HiFi reads assembly, annotation and analysis *
