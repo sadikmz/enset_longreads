@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # Documents in this directory
-./docs
-.template
-.LICENSE
+docs
+template
+LICENSE
