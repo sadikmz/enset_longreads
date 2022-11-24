@@ -27,11 +27,11 @@
 ## PacBio CLR assembly and scaffolding
 
 Quality check on HiFi reads
-
+```
 [GeneScope.FK](https://github.com/thegenemyers/GENESCOPE.FK)
-[PloidyPlot](https://github.com/thegenemyers/MERQURY.FK)
+[PloidyPlot](https://github.com/thegenemyers/MERQURY.FK) 
 [Go to the Support Web Site](https://support.west-wind.com)
-
+```
 ## PacBio HiFi assembly and scaffolding
 
 ## About
