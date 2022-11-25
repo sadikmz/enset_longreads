@@ -8,6 +8,7 @@
   - [PacBio CLR assembly and scaffolding](#pacbio-clr-assembly-and-scaffolding)
   - [PacBio HiFi assembly and scaffolding](#pacbio-hifi-assembly-and-scaffolding)
     - [Assembly](#assembly)
+  - [Assembly asssessment](#assembly-asssessment)
     - [scaffolding](#scaffolding)
     - [Generating and vizualing HiC contact probability maps](#generating-and-vizualing-hic-contact-probability-maps)
     - [Benchmarking genome articles](#benchmarking-genome-articles)
@@ -38,8 +39,10 @@ source <https://academic.oup.com/dnaresearch/article/29/6/dsac035/6815630#379962
 ### Assembly
 Hifiasm with default followed by purge-dups <https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-022-03707-5#Sec1>
 
-
+## Assembly asssessment
+Merquery and Meryl db for CLR, and primary and alternate HiFi assembly
 ### scaffolding 
+- YaHS
 - Align with BWA/Bowtie (-end-to-end, -very-sensitive -L 30)<https://www.nature.com/articles/s41467-022-34206-8#Sec9>
 - HiC-Pro <https://www.nature.com/articles/s41597-022-01671-1#Sec2>
 - Hi-CUP <https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01388-y#Sec10>
@@ -58,6 +61,9 @@ CLR -> HiC -> LACHESIS <https://www.mdpi.com/2079-7737/11/10/1492>
 - [HiCPlotter](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0767-1)
 
 ### Benchmarking genome articles
+
+- potato <https://doi.org/10.1038/s41588-022-01015-0>
+- Faba bean <https://doi.org/10.1101/2022.09.23.509015>
 - Chinese pepper  <https://doi.org/10.1111/pbi.13926>
 - Allium crops <https://www.nature.com/articles/s41467-022-34491-3>
 - Tea genome <https://doi.org/10.1038/s41438-020-0288-2>
