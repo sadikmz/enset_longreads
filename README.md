@@ -11,6 +11,7 @@
     - [scaffolding](#scaffolding)
     - [Generating and vizualing HiC contact probability maps](#generating-and-vizualing-hic-contact-probability-maps)
     - [Benchmarking genome articles](#benchmarking-genome-articles)
+  - [NLR literature and benchmarking](#nlr-literature-and-benchmarking)
     - [Assembly quality check](#assembly-quality-check)
     - [Population structure](#population-structure)
 
@@ -57,11 +58,27 @@ CLR -> HiC -> LACHESIS <https://www.mdpi.com/2079-7737/11/10/1492>
 - [HiCPlotter](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0767-1)
 
 ### Benchmarking genome articles
-
+Chinese pepper  <https://doi.org/10.1111/pbi.13926>
 Allium crops <https://www.nature.com/articles/s41467-022-34491-3>
 Tea genome <https://doi.org/10.1038/s41438-020-0288-2>
 Turmeric <https://www.frontiersin.org/articles/10.3389/fpls.2022.1003835/full>
+Sesame <https://doi.org/10.1016/j.jare.2022.10.004>
+Nibea coibor /HiFi+HiC/ <https://doi.org/10.1038/s41597-022-01804-6>
+Arabidopsis /Nanopore + HiFi/ <https://doi.org/10.1016/j.gpb.2021.08.003>
+Velvet bean <https://doi.org/10.1093/dnares/dsac031>
+<https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.15968>
+Watermelon <https://doi.org/10.1093/molbev/msac168>
+Brassicaceae diploid Orychophragmus violaceus <https://doi.org/10.1016/j.xplc.2022.100432>
+Poales species Carex cristatella <https://doi.org/10.1093/g3journal/jkac211>
 
+## NLR literature and benchmarking
+<https://doi.org/10.1016/j.pbi.2022.102311>
+Insight into the structure and molecular mode of action of plant paired NLR immune receptors  <https://doi.org/10.1042/EBC20210079>
+Receptor-mediated nonhost resistance in plants  <https://doi.org/10.1042/EBC20210080>
+Unconventional R proteins in the botanical tribe Triticeae  <https://doi.org/10.1042/EBC20210081>
+Evolution of resistance (R) gene specificity <https://doi.org/10.1042/EBC20210077>
+Activation and Regulation of NLR Immune receptors <https://doi.org/10.1093/pcp/pcac116>
+Tsw – A case study on structure-function puzzles in plant NLRs with unusually large LRR domains <https://www.frontiersin.org/articles/10.3389/fpls.2022.983693/full>
 ### Assembly quality check 
 
 ### Population structure
