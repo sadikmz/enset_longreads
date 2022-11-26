@@ -42,7 +42,8 @@ Hifiasm with default followed by purge-dups <https://bmcplantbiol.biomedcentral.
 ## Assembly asssessment
 Merquery and Meryl db for CLR, and primary and alternate HiFi assembly
 ### scaffolding 
-- YaHS
+
+- YaHS <https://doi.org/10.1101/2022.06.09.495093>
 - Align with BWA/Bowtie (-end-to-end, -very-sensitive -L 30)<https://www.nature.com/articles/s41467-022-34206-8#Sec9>
 - HiC-Pro <https://www.nature.com/articles/s41597-022-01671-1#Sec2>
 - Hi-CUP <https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01388-y#Sec10>
@@ -62,6 +63,7 @@ CLR -> HiC -> LACHESIS <https://www.mdpi.com/2079-7737/11/10/1492>
 
 ### Benchmarking genome articles
 
+- Sea grass (TE brust inferred from Kimura divergence value)<https://www.biorxiv.org/content/10.1101/2022.11.22.517588v2.full>
 - potato <https://doi.org/10.1038/s41588-022-01015-0>
 - Faba bean <https://doi.org/10.1101/2022.09.23.509015>
 - Chinese pepper  <https://doi.org/10.1111/pbi.13926>
