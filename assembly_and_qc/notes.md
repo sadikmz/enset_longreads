@@ -2,6 +2,6 @@
 
 ## spectral plots
 
-<img src="//Users/u1866313/rstudio/pacbio_clr_css/longreads_project/merqury/mazia/merqury.mazia_hifi.out.mazia_s33_adapt_discarded.spectra-cn.st.png">
+<img src="~/rstudio/pacbio_clr_css/../../../../docs/images/screenshot.png">
 
 The spectral plot shows that genome contains very diverse haplotypes ses <https://github.com/marbl/merqury/issues/59>
