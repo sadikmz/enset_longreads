@@ -7,4 +7,5 @@
 
 <img src="../assembly_and_qc/merqury.wild_c_s33_adapt_discarded.spectra-cn.st.png" title="Wild-B specra-cn plot" width="40%">
 
+
 The spectral plot shows that genome contains very diverse haplotypes see <https://github.com/marbl/merqury/issues/59>
