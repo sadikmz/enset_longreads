@@ -18,4 +18,6 @@ cutoff modified: 2 7 11 13 20 39
 cutoff initial: 5 7 11 13 22 39
 
 
-hamming error rate - measures teh occurrence of the k-mers from the unexpected haplotypes to the other in the entire assembly see <https://github.com/marbl/merqury/issues/53>
+hamming error rate - measures teh occurrence of the k-mers from the unexpected haplotypes to the other in the entire assembly see <https://github.com/marbl/merqury/issues/53> \n
+
+Also there are edge cases in HiFi assemblies where HiFi or Illumina sequencing biases are involved (e.g. homopolymer / 2-mer microsatellite indel errors, GC biases), so having 100% completeness seems very suspicious... <https://github.com/marbl/merqury/issues/84>
