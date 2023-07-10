@@ -1,5 +1,4 @@
 #!/bin/bash
-#
 #SBATCH --array=1-200
 #SBATCH --time=1:00:00
 #SBATCH --nodes=1
