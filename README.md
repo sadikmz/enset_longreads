@@ -1,9 +1,9 @@
-# PacBio CLR and HiFi reads assembly, annotation, and analysis 
+# Chromosome-level genomes reveal dynamics of structural variations and repetitive elements in domesticated and wild enset (*Ensete ventricosum*)
 
 <details open="open">
 <summary>Table of Contents</summary>
 
-- [PacBio CLR and HiFi reads assembly, annotation, and analysis](#pacbio-clr-and-hifi-reads-assembly-annotation-and-analysis)
+- [Chromosome-level genomes reveal dynamics of structural variations and repetitive elements in domesticated and wild enset (*Ensete ventricosum*)](#chromosome-level-genomes-reveal-dynamics-of-structural-variations-and-repetitive-elements-in-domesticated-and-wild-enset-ensete-ventricosum)
   - [Organnels genome assembly (Chloroplast and mitochondorial genomes)](#organnels-genome-assembly-chloroplast-and-mitochondorial-genomes)
   - [PacBio CLR assembly and scaffolding](#pacbio-clr-assembly-and-scaffolding)
   - [PacBio HiFi assembly and scaffolding](#pacbio-hifi-assembly-and-scaffolding)
