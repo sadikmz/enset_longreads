@@ -1,9 +1,9 @@
 # Chromosome-level genomes reveal dynamics of structural variations and repetitive elements in domesticated and wild enset (*Ensete ventricosum*)
 
-<details open="open">
+<!-- <details open="open">
 <summary>Table of Contents</summary>
 
-- [Chromosome-level genomes reveal dynamics of structural variations and repetitive elements in domesticated and wild enset (*Ensete ventricosum*)](#chromosome-level-genomes-reveal-dynamics-of-structural-variations-and-repetitive-elements-in-domesticated-and-wild-enset-ensete-ventricosum)
+
   - [Organnels genome assembly (Chloroplast and mitochondorial genomes)](#organnels-genome-assembly-chloroplast-and-mitochondorial-genomes)
   - [PacBio CLR assembly and scaffolding](#pacbio-clr-assembly-and-scaffolding)
   - [PacBio HiFi assembly and scaffolding](#pacbio-hifi-assembly-and-scaffolding)
@@ -90,4 +90,4 @@ CLR -> HiC -> LACHESIS <https://www.mdpi.com/2079-7737/11/10/1492>
 ### Assembly quality check 
 
 ### Population structure
-<https://www.frontiersin.org/articles/10.3389/fpls.2022.1022169/full#h3>
+<https://www.frontiersin.org/articles/10.3389/fpls.2022.1022169/full#h3> -->
