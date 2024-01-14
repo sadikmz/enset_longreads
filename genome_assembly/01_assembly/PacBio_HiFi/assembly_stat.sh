@@ -8,6 +8,7 @@ mkdir assembled_fasta summary_assembly_stat
 ls -lht *bp.*.gfa | awk '{print $9}' | grep -v utg | sed 's/.bp.*//g' | sort | uniq > para_list.txt
 
 
+
 param=$(cat para_list.txt)
 
 for i in ${param}

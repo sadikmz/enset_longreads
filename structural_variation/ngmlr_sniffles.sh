@@ -1,15 +1,4 @@
 #!/bin/bash
-#SBATCH --job-name=svmz
-#SBATCH --partition=hmem
-#SBATCH --nodes=1
-#SBATCH --cpus-per-task=48
-#SBATCH --mem-per-cpu=3700
-#SBATCH --time=48:00:00
-#SBATCH --output=fc.%J.out
-#SBATCH --error=fc.%J.err
-#SBATCH --mail-type=FAIL,END  # Type of email notification- BEGIN,END,FAIL,ALL
-#SBATCH --mail-user=Sadik.Muzemil@warwick.ac.uk
-
 
 module purge
 #module load intel impi imkl
